@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm mostly working in my free time on RC hardware related to OpenTX, Betaflight or ExpressLRS.
+- if you feel like I should have some special hardware to hack, here is [my Patreon page](https://www.patreon.com/user?u=43166499).
