@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - I'm mostly working in my free time on RC hardware related to OpenTX, Betaflight or ExpressLRS.
-- if you feel like I should have some special hardware to hack, here is [my Patreon page](https://www.patreon.com/user?u=43166499).
+- if you feel like I should have some special hardware to hack, here is how you can help:
+  - [my Patreon page](https://www.patreon.com/user?u=43166499).
+  - [Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RNRL4FQBMEQ44).
